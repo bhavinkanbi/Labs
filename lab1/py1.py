@@ -1,0 +1,8 @@
+name=input()
+age=input()
+print(name)
+print(age)
+current=input()
+print(current)
+year=((int (current))-(int (age))+100)
+print (year)
